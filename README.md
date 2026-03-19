@@ -1,6 +1,6 @@
 # Tableau Story: Hotel Booking Analysis
 
-Created an interactive Tableau story, exploring a Kaggle Hotel Reservations dataset.
+Created an interactive Tableau story, exploring a Kaggle Hotel Reservations dataset: https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset.
 
 **Interactive Tableau Story:**  
 https://public.tableau.com/app/profile/areej.irfan5595/viz/ExploringHotelReservations/Story1
